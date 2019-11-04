@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
       <h1>{{pageTitle}}</h1>
     </div>
   `,
-  
 })
 
 export class AppComponent {
